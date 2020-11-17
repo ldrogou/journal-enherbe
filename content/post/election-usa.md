@@ -3,8 +3,8 @@ authors = [
     "La mini journaliste",
 ]
 title = "Eléction Américaine"
-date = "2020-11-07"
-description = "Une election marathon au états unis."
+date = "2020-11-14"
+description = "Victoire du candidat démocrate"
 tags = [
     "usa",
     "election",
@@ -20,8 +20,12 @@ images = [
 ]
 +++
 
-Cette article va traiter de l'election américaine tototo.
+Joe Biden remporte cette élection
+présidentielle 2020.
 <!--more-->
 
-s
-
+Joe Biden sera le 46 éme président américain après avoir gagné face à
+Donald Trump. Il avait déjà été vice président américain pendant
+le mandat de Barack Obama (le 44 éme président des état-unis). Joe
+Biden sera présidant des USA et la vice -présidente Kamala Harris
+première femme de couleur au USA à ce poste.

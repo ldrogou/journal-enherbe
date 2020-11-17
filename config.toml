@@ -1,5 +1,5 @@
-baseURL = "https://example.com"
-title = "Une journaliste en herbe"
+baseURL = "https://journaliste-en-herbe.fr"
+title = "Journaliste en herbe"
 copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
 paginate = 2
 languageCode = "en"
@@ -30,7 +30,7 @@ author = "authors"
 
 [params]
   author = "Hugo Author"
-  description = "C'est une vision des informations vu par mes yeux d'enfants"
+  description = "Les informations vu par une enfant"
   homepageImage = "/images/homepage-image.jpg"
   share = true
   showLanguageSwitcher = false
@@ -42,7 +42,7 @@ author = "authors"
   [params.social]
     rss = true
     email = "example@example.com"
-    twitter = "https://twitter.com/ldrogou"
+    twitter = "https://twitter.com"
     github = "https://github.com"
 
   [params.prismJS]
