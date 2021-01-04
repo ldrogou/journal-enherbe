@@ -30,7 +30,7 @@ author = "authors"
 
 [params]
   author = "Hugo Author"
-  description = "Les informations vu par une enfant"
+  description = "Les informations vues par une enfant"
   homepageImage = "/images/homepage-image.jpg"
   share = true
   showLanguageSwitcher = false
