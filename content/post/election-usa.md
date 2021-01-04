@@ -28,4 +28,4 @@ Joe Biden sera le 46 éme président américain après avoir gagné face à
 Donald Trump. Il avait déjà été vice président américain pendant
 le mandat de Barack Obama (le 44 éme président des état-unis). Joe
 Biden sera président des USA et la vice-présidente Kamala Harris
-première femme de couleur au USA à ce poste.
+première femme de couleur aux USA à ce poste.
